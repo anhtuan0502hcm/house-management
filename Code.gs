@@ -15,7 +15,7 @@
 // ==========================================
 
 var SPREADSHEET = null;
-var SPREADSHEET_ID = '1NMhhF31uc77uhv-C_vppT4w5e3Wbgw4KsIf36xbGXo8';  // HOUSE-MANAGEMENT spreadsheet
+var SPREADSHEET_ID = '1FGoHjzEFAiSGGMKijZ-wVtdIHpJSPb8EingU_uhRd4k';  // HOUSE-MANAGEMENT spreadsheet
 var SPREADSHEET_NAME = null;
 
 // Safe initialization
