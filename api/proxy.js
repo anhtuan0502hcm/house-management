@@ -93,7 +93,7 @@ export default async function handler(req, res) {
     }
 
     // Google Apps Script endpoint
-    const scriptUrl = 'https://script.google.com/macros/s/AKfycbyGjeIv9o8ZquGLDoNuHIAhJnOiTrjCzng734KZMPfICBVOhJXUQhcwrKmu4WTF-pmFfA/exec';
+    const scriptUrl = 'https://script.google.com/macros/s/AKfycbxcUWOl31Q2fNDPNWEsG3mBH_vpoQoPzqlC_Qh_bsuA3Stk1gia2ZXdkPPXGmPM6u9zJQ/exec';
 
     // Build form-urlencoded body to forward to Google Apps Script
     const formData = new URLSearchParams();
